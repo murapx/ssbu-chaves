@@ -1,11 +1,11 @@
 # ssbu-chaves
   Mod para Super Smash Bros Ultimate com elementos da série mexicana El Chavo del Ocho, ou Chaves
-  Tais elementos incluem: Novos Spirits adicionados, Músicas, Troca de efeitos sonoros
+  Tais elementos incluem: Novos spirits adicionados, músicas, troca de efeitos sonoros
 
 # Instalação
-  Faça o download do arquivo zip
-  Tenha certeza que arcropolis/skyline está instalado propriamente
-  Extraia o conteúdo do arquivo Zip em sdmc:/ultimate/mods
+  Faça o download do arquivo zip, 
+  tenha certeza que arcropolis/skyline está instalado propriamente,
+  extraia o conteúdo do arquivo Zip em sdmc:/ultimate/mods
 
 # IMPORTANTE
   Este mod está incompleto, e não há previsão para sua finalização
